@@ -1,0 +1,7 @@
+**/node_modules/
+**/.vite/
+private/runtime/
+*.zip
+*.7z
+__pycache__/
+*.pyc

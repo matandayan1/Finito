@@ -1,0 +1,47 @@
+{
+  "name": "BlockedPhone",
+  "type": "object",
+  "properties": {
+    "phone_e164": {
+      "type": "string",
+      "description": "Phone number in E.164 format that should never receive SMS"
+    },
+    "label": {
+      "type": "string",
+      "description": "Optional note for this blocked number (e.g. 'delivery', 'staff')"
+    }
+  },
+  "required": [
+    "phone_e164"
+  ],
+  "rls": {
+    "create": {
+      "created_by_id": "{{user.id}}"
+    },
+    "read": null,
+    "update": {
+      "$or": [
+        {
+          "created_by_id": "{{user.id}}"
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    },
+    "delete": {
+      "$or": [
+        {
+          "created_by_id": "{{user.id}}"
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    }
+  }
+}

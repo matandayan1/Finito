@@ -1,0 +1,74 @@
+{
+  "name": "InventoryMovement",
+  "type": "object",
+  "properties": {
+    "item_id": {
+      "type": "string",
+      "description": "Reference to InventoryItem id"
+    },
+    "item_name_he": {
+      "type": "string",
+      "description": "Item name snapshot"
+    },
+    "work_area": {
+      "type": "string",
+      "enum": [
+        "floor",
+        "bar",
+        "host",
+        "kitchen",
+        "cleaning"
+      ]
+    },
+    "previous_stock": {
+      "type": "number",
+      "description": "Stock before change"
+    },
+    "new_stock": {
+      "type": "number",
+      "description": "Stock after change"
+    },
+    "change_amount": {
+      "type": "number",
+      "description": "Delta (positive = added, negative = removed)"
+    },
+    "updated_by": {
+      "type": "string",
+      "description": "Name of who made the change"
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "manual",
+        "barcode",
+        "quick_count"
+      ],
+      "description": "How the change was made"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "item_id",
+    "item_name_he"
+  ],
+  "rls": {
+    "create": null,
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

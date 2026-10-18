@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: finito-hospitality-os
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: APP_USERNAME
+        value: finito
+      - key: APP_PASSWORD
+        generateValue: true
+      - key: PORT
+        value: 10000
+    disk:
+      name: finito-data
+      mountPath: /app/private/runtime
+      sizeGB: 1

@@ -1,0 +1,70 @@
+{
+  "name": "SakeItem",
+  "type": "object",
+  "properties": {
+    "name_he": {
+      "type": "string",
+      "description": "\u05e9\u05dd \u05d1\u05e2\u05d1\u05e8\u05d9\u05ea"
+    },
+    "name_en": {
+      "type": "string",
+      "description": "English name"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Dry",
+        "Earthy",
+        "Umami",
+        "Aromatic"
+      ],
+      "description": "\u05e7\u05d8\u05d2\u05d5\u05e8\u05d9\u05d9\u05ea \u05d8\u05e2\u05dd"
+    },
+    "brewery": {
+      "type": "string",
+      "description": "\u05de\u05d1\u05e9\u05dc\u05d4"
+    },
+    "alcohol": {
+      "type": "string",
+      "description": "\u05d0\u05d7\u05d5\u05d6 \u05d0\u05dc\u05db\u05d5\u05d4\u05d5\u05dc"
+    },
+    "polish_ratio": {
+      "type": "string",
+      "description": "\u05d9\u05d7\u05e1 \u05e9\u05d9\u05d5\u05e3 \u05d0\u05d5\u05e8\u05d6"
+    },
+    "grade": {
+      "type": "string",
+      "description": "\u05d3\u05e8\u05d2\u05d4"
+    },
+    "temperature": {
+      "type": "string",
+      "description": "\u05d8\u05de\u05e4\u05e8\u05d8\u05d5\u05e8\u05ea \u05d4\u05d2\u05e9\u05d4"
+    },
+    "profile": {
+      "type": "string",
+      "description": "\u05e4\u05e8\u05d5\u05e4\u05d9\u05dc \u05d8\u05e2\u05dd"
+    },
+    "description": {
+      "type": "string",
+      "description": "\u05ea\u05d9\u05d0\u05d5\u05e8"
+    },
+    "food_pairing": {
+      "type": "string",
+      "description": "\u05d4\u05ea\u05d0\u05de\u05d4 \u05dc\u05d0\u05d5\u05db\u05dc"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "\u05db\u05ea\u05d5\u05d1\u05ea \u05d4\u05ea\u05de\u05d5\u05e0\u05d4"
+    },
+    "sort_order": {
+      "type": "number",
+      "description": "\u05e1\u05d3\u05e8 \u05ea\u05e6\u05d5\u05d2\u05d4"
+    }
+  },
+  "required": [
+    "name_he",
+    "name_en",
+    "category",
+    "brewery"
+  ]
+}

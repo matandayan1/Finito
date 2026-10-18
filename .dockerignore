@@ -1,0 +1,7 @@
+.git
+**/node_modules
+private/runtime
+*.zip
+*.7z
+__pycache__
+*.pyc

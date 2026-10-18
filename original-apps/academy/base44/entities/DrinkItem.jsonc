@@ -1,0 +1,105 @@
+{
+  "name": "DrinkItem",
+  "type": "object",
+  "properties": {
+    "item_id": {
+      "type": "string",
+      "description": "Unique identifier for the drink"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Cocktails",
+        "Mocktails",
+        "Spirits"
+      ],
+      "description": "Main category"
+    },
+    "flavor_profile": {
+      "type": "string",
+      "enum": [
+        "Bitter",
+        "Sour",
+        "Sweet",
+        "Fresh",
+        "Complex",
+        "Spirit"
+      ],
+      "description": "Flavor profile classification"
+    },
+    "name_he": {
+      "type": "string",
+      "description": "Hebrew name"
+    },
+    "name_en": {
+      "type": "string",
+      "description": "English name"
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of ingredients"
+    },
+    "garnish": {
+      "type": "string",
+      "description": "Garnish details"
+    },
+    "description": {
+      "type": "string",
+      "description": "Full description of the drink"
+    },
+    "staff_notes": {
+      "type": "string",
+      "description": "Important notes for staff"
+    },
+    "allergens": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Allergens present"
+    },
+    "sensitivity_notes": {
+      "type": "string",
+      "description": "Sensitivity warnings (spicy, caffeine, etc.)"
+    },
+    "alcohol_content": {
+      "type": "string",
+      "enum": [
+        "None",
+        "Low",
+        "Medium",
+        "High",
+        "Very High"
+      ],
+      "description": "Alcohol strength level"
+    },
+    "spirit_type": {
+      "type": "string",
+      "description": "For spirits reference - Vodka, Gin, Rum, etc."
+    },
+    "brand_name": {
+      "type": "string",
+      "description": "For spirits reference - brand name"
+    },
+    "image_file": {
+      "type": "string",
+      "description": "Uploaded image file URL"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "External image URL"
+    },
+    "sort_order": {
+      "type": "number",
+      "description": "Display order"
+    }
+  },
+  "required": [
+    "item_id",
+    "category",
+    "name_he"
+  ]
+}

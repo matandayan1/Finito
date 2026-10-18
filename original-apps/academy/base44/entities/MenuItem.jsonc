@@ -1,0 +1,101 @@
+{
+  "name": "MenuItem",
+  "type": "object",
+  "properties": {
+    "item_id": {
+      "type": "string",
+      "description": "Unique identifier for the menu item"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Starters",
+        "Sushi",
+        "Skewers",
+        "Ippin",
+        "Izakaya",
+        "Ramen",
+        "Rice",
+        "Soup",
+        "Desserts"
+      ],
+      "description": "Menu category"
+    },
+    "name_he": {
+      "type": "string",
+      "description": "Hebrew name (primary)"
+    },
+    "name_en": {
+      "type": "string",
+      "description": "English name"
+    },
+    "jp_term": {
+      "type": "string",
+      "description": "Japanese term"
+    },
+    "pronunciation": {
+      "type": "string",
+      "description": "How to pronounce the Japanese term"
+    },
+    "short_story": {
+      "type": "string",
+      "description": "One-line description for card display"
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of ingredients"
+    },
+    "modifiable_options": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Modifications guests can request"
+    },
+    "not_modifiable_reason": {
+      "type": "string",
+      "description": "Reason if dish cannot be modified"
+    },
+    "allergens": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Allergens present in the dish"
+    },
+    "pregnancy_note": {
+      "type": "string",
+      "enum": [
+        "OK",
+        "Depends",
+        "Not recommended"
+      ],
+      "description": "Safety for pregnant guests"
+    },
+    "staff_notes": {
+      "type": "string",
+      "description": "Important notes for staff"
+    },
+    "image_file": {
+      "type": "string",
+      "description": "Uploaded image file URL"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "Optional external image URL"
+    },
+    "sort_order": {
+      "type": "number",
+      "description": "Order within category"
+    }
+  },
+  "required": [
+    "item_id",
+    "category",
+    "name_he",
+    "short_story"
+  ]
+}

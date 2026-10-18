@@ -1,0 +1,97 @@
+{
+  "name": "DailyReport",
+  "type": "object",
+  "properties": {
+    "filename": {
+      "type": "string",
+      "description": "Original uploaded filename"
+    },
+    "upload_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When the file was uploaded"
+    },
+    "rows_processed": {
+      "type": "number",
+      "description": "Number of valid rows after filtering and dedup"
+    },
+    "report_data": {
+      "type": "array",
+      "description": "Serialized report rows",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "phone_raw": {
+            "type": "string"
+          },
+          "phone_e164": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "sent_status": {
+      "type": "object",
+      "description": "Map of phone_e164 -> boolean, tracking who was sent SMS",
+      "additionalProperties": {
+        "type": "boolean"
+      }
+    },
+    "message_template": {
+      "type": "string",
+      "description": "Custom message template for this report"
+    }
+  },
+  "required": [
+    "filename",
+    "upload_timestamp",
+    "rows_processed"
+  ],
+  "rls": {
+    "create": {
+      "created_by_id": "{{user.id}}"
+    },
+    "read": {
+      "$or": [
+        {
+          "created_by_id": "{{user.id}}"
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    },
+    "update": {
+      "$or": [
+        {
+          "created_by_id": "{{user.id}}"
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    },
+    "delete": {
+      "$or": [
+        {
+          "created_by_id": "{{user.id}}"
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    }
+  }
+}

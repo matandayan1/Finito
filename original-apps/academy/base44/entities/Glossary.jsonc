@@ -1,0 +1,28 @@
+{
+  "name": "Glossary",
+  "type": "object",
+  "properties": {
+    "term": {
+      "type": "string",
+      "description": "English term"
+    },
+    "he": {
+      "type": "string",
+      "description": "Hebrew translation"
+    },
+    "meaning": {
+      "type": "string",
+      "description": "Definition/meaning of the term"
+    },
+    "how_to_explain": {
+      "type": "string",
+      "description": "How staff should explain this to guests"
+    }
+  },
+  "required": [
+    "term",
+    "he",
+    "meaning",
+    "how_to_explain"
+  ]
+}

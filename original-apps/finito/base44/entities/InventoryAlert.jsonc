@@ -1,0 +1,71 @@
+{
+  "name": "InventoryAlert",
+  "type": "object",
+  "properties": {
+    "item_id": {
+      "type": "string",
+      "description": "Reference to InventoryItem id"
+    },
+    "item_name_he": {
+      "type": "string",
+      "description": "Item name snapshot"
+    },
+    "item_name_en": {
+      "type": "string",
+      "description": "Item name snapshot in English"
+    },
+    "work_area": {
+      "type": "string",
+      "enum": [
+        "floor",
+        "bar",
+        "host",
+        "kitchen"
+      ]
+    },
+    "reported_by": {
+      "type": "string",
+      "description": "Name of the staff member who reported"
+    },
+    "note": {
+      "type": "string",
+      "description": "Optional note about the shortage"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "open",
+        "resolved"
+      ],
+      "default": "open",
+      "description": "Whether the alert has been handled"
+    },
+    "reported_at": {
+      "type": "string",
+      "description": "Timestamp of the report"
+    }
+  },
+  "required": [
+    "item_id",
+    "item_name_he",
+    "work_area"
+  ],
+  "rls": {
+    "create": null,
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

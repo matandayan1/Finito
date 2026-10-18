@@ -1,0 +1,48 @@
+{
+  "name": "UserProgress",
+  "type": "object",
+  "properties": {
+    "completed_sections": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of completed section IDs"
+    },
+    "quiz_scores": {
+      "type": "object",
+      "description": "Scores per quiz section"
+    },
+    "flashcards_mastered": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "IDs of mastered flashcards"
+    },
+    "total_points": {
+      "type": "number",
+      "default": 0
+    },
+    "certification_passed": {
+      "type": "boolean",
+      "default": false
+    },
+    "certification_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "current_language": {
+      "type": "string",
+      "enum": [
+        "he",
+        "en",
+        "fr",
+        "ja",
+        "ru"
+      ],
+      "default": "he"
+    }
+  },
+  "required": []
+}

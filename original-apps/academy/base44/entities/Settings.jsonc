@@ -1,0 +1,40 @@
+{
+  "name": "Settings",
+  "type": "object",
+  "properties": {
+    "restaurant": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "purpose": {
+          "type": "string"
+        },
+        "primary_language": {
+          "type": "string"
+        },
+        "supported_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "allergen_tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of allergen tags available for menu items"
+    }
+  },
+  "required": [
+    "restaurant",
+    "allergen_tags"
+  ]
+}

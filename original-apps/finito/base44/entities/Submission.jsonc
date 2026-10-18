@@ -1,0 +1,98 @@
+{
+  "name": "Submission",
+  "type": "object",
+  "properties": {
+    "waiter_name": {
+      "type": "string",
+      "description": "Name of the waiter who submitted"
+    },
+    "waiter_email": {
+      "type": "string",
+      "description": "Email of the waiter"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Shift date"
+    },
+    "shift_type": {
+      "type": "string",
+      "enum": [
+        "morning",
+        "evening",
+        "night"
+      ],
+      "description": "Type of shift"
+    },
+    "work_area": {
+      "type": "string",
+      "enum": [
+        "floor",
+        "bar",
+        "host",
+        "kitchen"
+      ],
+      "description": "Work area"
+    },
+    "completed_tasks": {
+      "type": "array",
+      "description": "Array of completed task objects",
+      "items": {
+        "type": "object",
+        "properties": {
+          "task_id": {
+            "type": "string"
+          },
+          "task_name": {
+            "type": "string"
+          },
+          "completed": {
+            "type": "boolean"
+          },
+          "note": {
+            "type": "string"
+          },
+          "photo_url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "total_tasks": {
+      "type": "number",
+      "description": "Total number of tasks"
+    },
+    "completed_count": {
+      "type": "number",
+      "description": "Number of completed tasks"
+    },
+    "submission_time": {
+      "type": "string",
+      "description": "Exact submission timestamp"
+    }
+  },
+  "required": [
+    "waiter_name",
+    "date",
+    "shift_type",
+    "work_area"
+  ],
+  "rls": {
+    "create": null,
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

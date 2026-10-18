@@ -1,0 +1,593 @@
+"name_fr","is_active","description_fr","description_en","name_ja","description_he","work_area","photo_requirement","description_ru","checklist_type","days_of_week","description_ja","example_images","name_he","name_ru","recurring_schedule","sort_order","name_en","id","created_date","updated_date","created_by_id","created_by","is_sample"
+"Réapprovisionnement du réfrigérateur arrière","true","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nogoon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rosé
+* 1 Barbera Rouge
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nogoon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rose
+* 1 Barbera Red
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","バック冷蔵庫の補充","* 1 אייס צ'ויה
+* 1 צ'ויה גודלן
+* 1 ג'וזן וויט
+* 1 נוג'ון
+* 1 אוישי
+* 1 ניגורי
+* 1 איורה
+* 1 ראשן ג'ק
+* 1 ברברה רוזה
+* 1 ברברה אדום
+* 1 קוסטוזה
+* 1 טטאקי נו איפון
+* 1 ג'וזן אינדיגו
+* 1 דאיגינג'ו 700
+* 1 טאנריי קראגוצ'י
+קולה אדומה- 12 
+קולה זירו - 18
+ספרייט -12
+ספרייט זירו-12
+פרללה מוגז/מינרלי-7 מכל אחד","bar","required","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nogoon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rose
+* 1 Barbera Red
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","opening","[]","* 1 アイスチョーヤ
+* 1 チョーヤゴールデン
+* 1 上善如水ホワイト
+* 1 Nogoon
+* 1 おいしい
+* 1 にごり
+* 1 Iora
+* 1 ロシアン・ジャック
+* 1 バルベーラ・ロゼ
+* 1 バルベーラ・ロッソ
+* 1 クストーツァ
+* 1 叩きの一本
+* 1 上善如水インディゴ
+* 1 大吟醸 700
+* 1 淡麗辛口","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/392c44859_.jpeg""]","מילוי מקרר אחורי ","Заполнение заднего холодильника","always","0","Restock back refrigerator","6a6797360617c84babf65e4f","2026-07-27T17:36:54.126000","2026-07-27T17:54:05.631000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Ouverture du poste de préparation des cocktails","true","Sortir les sirops et les placer dans le bac à glace avec l'alcool, puis remplir avec de la glace et un peu d'eau. Miso, cordial à la fraise, sirop de riz grillé, citron, thé noir, yuzu. Garnitures dans des bacs à glace avec de l'eau - feuilles de shiso, feuilles de wasabi coupées en deux, concombre entier, orange entière, feuilles de menthe séparées. Dans deux verres à côté des bacs à glace - yakitori à la fraise séchée, têtes de menthe. Petit seau à champagne avec tous les ustensiles de bar - ouvre-bouteilles, 2 passoires, cuillère de bar, pilon, doseur.","Take out the syrups and place them in the ice bath together with the alcohol, then fill with ice and a little water. Miso, strawberry cordial, roasted rice syrup, lemon, black tea, yuzu. Garnishes in ice baths with water - shiso leaves, wasabi leaves cut in 2, whole cucumber, whole orange, separated mint leaves. In two glasses next to the ice baths - dried strawberry yakitori, mint tops. Small champagne bucket with all bar tools - openers, 2 strainers, bar spoon, muddler, jigger.","カクテル準備ステーションのオープン","להוציא את הסירופים ולשים באמבטיה יחד עם האלכוהול ולמלא בקרח ומעט מים 
+
+מיסו , קורדיאל תות , סירופ אורז קלוי , לימון , תה שחור , יוזו 
+גרנישים באמבטיות עם קרח ומים - עלי שיסו , עלי וואסאבי חתוכים ל 2 , מללפון שלם , תפוז שלם , עלי נענע מופרדת 
+בשתי כוסות לצד האמבטיות - יקיטורי תות מיובש , ראשי נענע . 
+שמפניירה קטנה עם כל כלי הבר - פותחנים , 2 המסננות , כפית בר , סמאשר , גיגר
+שייקרים ","bar","required","Достаньте сиропы и поместите их в ванну со льдом вместе с алкоголем, затем наполните льдом и небольшим количеством воды. Мисо, клубничный кордиал, сироп из обжаренного риса, лимон, черный чай, юдзу. Гарниры в ваннах со льдом и водой — листья шисо, листья васаби, разрезанные пополам, целый огурец, целый апельсин, отделенные листья мяты. В двух стаканах рядом с ваннами — сушеная клубника якитори, верхушки мяты. Маленькое ведерко для шампанского со всеми барными инструментами — открывалки, 2 стрейнера, барная ложка, мадлер, джиггер.","opening","[]","シロップを取り出し、アルコールと一緒にアイスバスに入れ、氷と少量の水で満たすこと。味噌、イチゴコーディアル、焙煎米シロップ、レモン、紅茶、柚子。アイスバス（水入り）に入れるガーニッシュ：大葉（しそ）、半分に切った山葵の葉、丸ごとのキュウリ、丸ごとのオレンジ、分けたミントの葉。アイスバスの横にある2つのグラス：乾燥イチゴの焼き鳥、ミントの頭。すべてのバーツールを入れた小さなシャンパンバケット：栓抜き、ストレーナー2つ、バースプーン、マドラー、ジガー。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/8ab921285_.jpeg""]","פתיחת עמדת הכנת קוקטיילים ","Открытие станции для приготовления коктейлей","always","5","Opening the cocktail preparation station","6a6792ead2c35c7f6cafe969","2026-07-27T17:18:34.890000","2026-07-27T17:37:29.978000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage des étagères de l'îlot","true","Nettoyage des étagères de l'îlot, vider tout leur contenu et nettoyer les étagères + remettre le tout dans le même ordre","Cleaning the island shelves, emptying all their contents and cleaning the shelves + returning them in the same order","アイランド棚の清掃","ניקוי מדפי האי , ריקון כל תכולתם וניקוי המדפים + להחזיר באותו הסדר ","bar","required","Очистка полок острова, полное опустошение их содержимого и очистка полок + возврат в том же порядке","opening","[""tuesday""]","アイランド棚の清掃、中身をすべて空にして棚を掃除する + 同じ順序で戻す","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/67509f0a4_.jpeg""]","נקיון מדפי אי ","Очистка полок острова","specific_days","2","Cleaning island shelves","6a678edc8c3b550c2f113d70","2026-07-27T17:01:16.597000","2026-07-27T17:28:28.938000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage des tiroirs du réfrigérateur","true","Vider tous les tiroirs du réfrigérateur et les envoyer pour lavage","Emptying all refrigerator drawers and sending them for washing","冷蔵庫の引き出しの清掃","ריקון כל מגירות המקרר ושליחתן לשטיפה ","bar","required","Опустошить все ящики холодильника и отправить их на мойку","opening","[""friday""]","冷蔵庫のすべての引き出しを空にし、洗浄のために送る","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/471329077_.jpeg""]","ניקוי מגירות מקרר ","Чистка ящиков холодильника","specific_days","4","Cleaning refrigerator drawers","6a678ddfd5f2c65bba1ee404","2026-07-27T16:57:03.393000","2026-07-27T17:28:26.547000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage sous le congélateur et le fût de bière","true","ניקוי מתחת למקפיא והחבית בירה","ניקוי מתחת למקפיא והחבית בירה","冷凍庫とビール樽の下の清掃","","bar","required","ניקוי מתחת למקפיא והחבית בירה","opening","[""monday""]","ניקוי מתחת למקפיא והחבית בירה","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/7fd47ce2f_.jpeg""]","ניקוי מתחת למקפיא והחבית בירה ","Уборка под морозильной камерой и пивной кегой","specific_days","1","Cleaning under the freezer and the beer keg","6a678b2f691b67f5b854981b","2026-07-27T16:45:35.810000","2026-07-27T17:28:26.524000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Remplir les grands tiroirs d'eau et de soda","true","Grand soda - 9
+Grande eau - 9","Large soda - 9
+Large water - 9","大型の水とソーダの引き出しを補充する","סודה גדולה - 9 
+מים גדול - 9","bar","none","Большая газировка - 9
+Большая вода - 9","closing","[]","大ソーダ - 9
+大水 - 9","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/ca0194ab2_.jpeg""]","מילוי מגירת מים וסודה גדולות","Заполнение больших ящиков для воды и газировки","always","0","Refill large water and soda drawers","6a67892b094e4320fb7c0d85","2026-07-27T16:36:59.431000","2026-07-27T16:37:19.893000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Remplir le tiroir à sodas supérieur","true","Coca-Cola (rouge) - 12
+Coca-Cola Zéro - 18","Coca-Cola (Red) - 12
+Coca-Cola Zero - 18","上段の炭酸飲料ドロワーの補充","קולה אדומה- 12 
+קולה זירו - 18","bar","none","Coca-Cola (красная) - 12
+Coca-Cola Zero - 18","closing","[]","コカ・コーラ（赤）- 12
+コカ・コーラ・ゼロ - 18","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/b1dd2c871_.jpeg""]","מילוי מגירת מוגזים עליונה ","Заполнение верхнего ящика с газированными напитками","always","0","Fill top soda drawer","6a6787c8bb2cc78874276e48","2026-07-27T16:31:04.349000","2026-07-27T16:31:04.349000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Remplissage du tiroir à sodas inférieur","true","Soda-8
+Ginger beer-8
+Tonic-8
+Sprite Zero-7
+Sprite régulier-7","Soda-8
+Ginger beer-8
+Tonic-8
+Sprite Zero-7
+Regular Sprite-7","下のソーダ引き出しの補充","סודה-8
+ גינגר ביר-8
+ טוניק-8
+ ספרייט זירו -7
+ ספרייט רגיל-7","bar","none","Содовая-8
+Имбирное пиво-8
+Тоник-8
+Спрайт Зеро-7
+Обычный Спрайт-7","closing","[]","ソーダ-8
+ジンジャービア-8
+トニック-8
+スプライトゼロ-7
+レギュラー・スプライト-7","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/47652d938_.jpeg""]","מילוי מגירת מוגזים תחתונה","Заполнение нижнего ящика для газировки","always","0","Refilling the bottom soda drawer","6a67877e5eddd8466d43548b","2026-07-27T16:29:50.213000","2026-07-27T16:30:07.313000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Polissage des verres","true","פוליש כוסות","","グラス磨き","לפלש את כל הכוסות ","bar","none","פוליש כוסות","both","[]","פוליש כוסות","[]","פוליש כוסות ","Полировка бокалов","always","7","Glass Polishing","6a6786d8e0d4f481e1134202","2026-07-27T16:27:04.376000","2026-07-27T17:37:29.970000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Remplir les cure-dents","true","למלא קיסמיות ","","つまようじを補充する","למלא קיסמיות ","floor","required","למלא קיסמיות ","closing","[]","למלא קיסמיות ","[]","למלא קיסמיות ","Заполнить зубочистки","always","0","Refill toothpicks","6a677940366929f1fc09c9b1","2026-07-27T15:29:04.056000","2026-07-27T15:29:33.016000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Mettre de la sauce soja sur toutes les tables","true","Placez les bouteilles de sauce soja sur chaque table du restaurant.","Place soy sauce bottles on every table in the restaurant.","すべてのテーブルに醤油を置く","","floor","none","Расставьте бутылочки с соевым соусом на все столы в ресторане.","opening","[]","レストランのすべてのテーブルに醤油ボトルを置いてください。","[]","לשים סויות על כל שולחנות","Поставить соевый соус на все столы","always","0","Put soy sauce on all tables","6a5f851cf7b9177858a50c1d","2026-07-21T14:41:32.475000","2026-07-24T11:47:05.438000","anonymous","anonymous","false"
+"Remplir le tiroir d'alcool pour cocktails","true","* 3 Gin
+* 2 Tequila
+* 1 Vodka
+
+Congélateur:
+* 1 Vodka Haku
+* 1 Arak","* 3 Gin
+* 2 Tequila
+* 1 Vodka
+
+Freezer:
+* 1 Haku Vodka
+* 1 Arak","カクテル用アルコール引き出しの補充","* 3 ג'ין
+* 2 טקילה 
+* 1 וודקה
+
+מקפיא:
+* 1 וודקה האקו
+* 1 ערק","bar","required","* 3 Джина
+* 2 Текилы
+* 1 Водка
+
+Морозилка:
+* 1 Водка Haku
+* 1 Арак","opening","[]","* ジン 3本
+* テキーラ 2本
+* ウォッカ 1本
+
+冷凍庫:
+* HAKUウォッカ 1本
+* アラック 1本","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/aa2f07fa6_.jpeg""]","מלאים אלכוהול קוקטיילים","Заполнить ящик с алкоголем для коктейлей","always","4","Stock cocktail alcohol ","6a5b4d21f1f5b4e7d96bf29c","2026-07-18T09:53:37.886000","2026-07-27T17:37:30.002000","anonymous","anonymous","false"
+"Réapprovisionner le réfrigérateur à vin","true","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nujon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rosé
+* 1 Barbera Rouge
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nujon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rose
+* 1 Barbera Red
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","ワイン冷蔵庫の補充","* 1 אייס צ'ויה
+* 1 צ'ויה גודלן
+* 1 ג'וזן וויט
+* 1 נוג'ון
+* 1 אוישי
+* 1 ניגורי
+* 1 איורה
+* 1 ראשן ג'ק
+* 1 ברברה רוזה
+* 1 ברברה אדום
+* 1 קוסטוזה
+* 1 טטאקי נו איפון
+* 1 ג'וזן אינדיגו
+* 1 דאיגינג'ו 700
+* 1 טאנריי קראגוצ'י","bar","required","* 1 Ice Choya
+* 1 Choya Golden
+* 1 Jozen White
+* 1 Nujon
+* 1 Oishi
+* 1 Nigori
+* 1 Iora
+* 1 Russian Jack
+* 1 Barbera Rose
+* 1 Barbera Red
+* 1 Custoza
+* 1 Tataki no Ippon
+* 1 Jozen Indigo
+* 1 Daiginjo 700
+* 1 Tanrei Karaguchi","opening","[]","* 1 アイスチョーヤ
+* 1 チョーヤ・ゴールデン
+* 1 上善如水ホワイト
+* 1 ぬじょん
+* 1 おいしい
+* 1 にごり
+* 1 いおら
+* 1 ロシアン・ジャック
+* 1 バルベーラ・ロゼ
+* 1 バルベーラ・レッド
+* 1 クストーザ
+* 1 叩きの一本
+* 1 上善如水インディゴ
+* 1 大吟醸 700
+* 1 淡麗辛口","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/20ca7f80a_.jpeg""]","מלאים מקרר יינות","Пополнить винный холодильник","always","3","Restock wine refrigerator","6a5b4c3b1461b91021119772","2026-07-18T09:49:47.789000","2026-07-27T17:37:30.052000","anonymous","anonymous","false"
+"Remplissage du tiroir de boissons non alcoolisées et de bières","true","* 12 Cola
+* 18 Zéro
+* 7 Sprite
+* 7 Sprite Zéro
+* 7 Soda
+* 8 Tonic
+* 8 Bière de gingembre
+* 9 Grande eau
+* 9 Grand soda
+* 10 Estrella","* 12 Cola
+* 18 Zero
+* 7 Sprite
+* 7 Sprite Zero
+* 7 Soda
+* 8 Tonic
+* 8 Ginger Beer
+* 9 Large Water
+* 9 Large Soda
+* 10 Estrella","ソフトドリンクとビール引き出しの補充","* 12 קולה
+* 18 זירו
+* 7 ספרייט
+* 7 ספרייט זירו
+* 7 סודה
+* 8 טוניק
+* 8 ג'ינג'ר ביר
+* 9 מים גדול
+* 9 סודה גדול
+* 10 אסטרייה
+","bar","required","* 12 Кола
+* 18 Зеро
+* 7 Спрайт
+* 7 Спрайт Зеро
+* 7 Содовая
+* 8 Тоник
+* 8 Имбирное пиво
+* 9 Большая вода
+* 9 Большая содовая
+* 10 Эстрелья","closing","[]","* コーラ 12本
+* ゼロ 18本
+* スプライト 7本
+* スプライトゼロ 7本
+* ソーダ 7本
+* トニック 8本
+* ジンジャービア 8本
+* 大水 9本
+* 大ソーダ 9本
+* エステラ 10本","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/2a7eb7b24_.jpeg""]","מילוי מגירת שתיה קלה ובירה","Заполнение ящика с безалкогольными напитками и пивом","always","2","Filling the soft drink and beer drawer","6a5b4bb87ddf735f3f5b9322","2026-07-18T09:47:36.505000","2026-07-27T16:27:23.717000","anonymous","anonymous","false"
+"Remplir le tiroir à saké","true","* 2 Ichi Choya
+* 2 Jozen White
+* 2 Nojun
+* 2 Oishii
+* 2 Nigori
+* 1 Choya Golden","* 2 Ichi Choya
+* 2 Jozen White
+* 2 Nojun
+* 2 Oishii
+* 2 Nigori
+* 1 Choya Golden","日本酒の引き出しを補充する","* 2 אייס צ'ויה
+* 2 ג'וזן וויט
+* 2 נוג'ון
+* 2 אוישי
+* 2 ניגורי
+* 1 צ'ויה גולדן","bar","required","* 2 Ichi Choya
+* 2 Jozen White
+* 2 Nojun
+* 2 Oishii
+* 2 Nigori
+* 1 Choya Golden","closing","[]","* 2 壱・蝶矢 (Ichi Choya)
+* 2 上善如水 ホワイト (Jozen White)
+* 2 農醇 (Nojun)
+* 2 おいしい (Oishii)
+* 2 にごり (Nigori)
+* 1 蝶矢 ゴールデン (Choya Golden)","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/8ca712e93_.jpeg""]","מלאים מגירת סאקה","Заполнить ящик с саке","always","1","Fill sake drawer","6a5b4b2fe1adb283d8a1a794","2026-07-18T09:45:19.477000","2026-07-27T16:27:23.583000","anonymous","anonymous","false"
+"Remplir le tiroir à vins","true","* 2 Iura
+* 2 Russian Jack
+* 2 Barbera rouge
+* 2 Rosé
+* 2 Custoza
+
+Hors du réfrigérateur:
+Malbec 1","* 2 Iura
+* 2 Russian Jack
+* 2 Barbera Red
+* 2 Rosé
+* 2 Custoza
+
+Outside the fridge:
+Malbec 1","ワイン引き出しの補充","* 2 איורה
+* 2 ראשן ג'ק
+*2 ברברה אדום
+* 2 רוזה
+* 2 קוסטוזה
+
+מחוץ למקרר:
+מלבק 1","bar","required","* 2 Iura
+* 2 Russian Jack
+* 2 Барбера красное
+* 2 Розе
+* 2 Custoza
+
+Вне холодильника:
+Мальбек 1","closing","[]","* 2 イウラ
+* 2 ロシアン・ジャック
+* 2 バルベーラ（赤）
+* 2 ロゼ
+* 2 クストーザ
+
+冷蔵庫の外:
+マルベック 1","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/5e76be458_.jpeg""]","מלאים מגירת יינות","Заполнить винный ящик","always","0","Fill wine drawer","6a5b4ac14ca37b2801bc7404","2026-07-18T09:43:29.012000","2026-07-27T16:27:23.562000","anonymous","anonymous","false"
+"Remplissage du tiroir à sirops","true","3 sirop de fraise, 1 miso, 1 sirop de riz, 2 thé glacé noir","3 strawberry syrup, 1 miso, 1 rice syrup, 2 black ice tea","シロップ引き出しの補充","אחרי שמוציאים את הסירופים הפתוחים 
+3 סירופ תות, 1 מיסו, 1 סירופ אורז, 2 בלאק אייס טי","bar","required","3 клубничных сиропа, 1 мисо, 1 рисовый сироп, 2 черных холодных чая","opening","[]","ストロベリーシロップ3本、味噌1本、米シロップ1本、ブラックアイスティー2本","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/6a6e46ed1_WhatsAppImage2026-07-27at190924.jpeg""]","מלוי מגירת סירופים","Пополнение ящика с сиропами","always","1","Refilling the syrup drawer","6a5b4a2eba50548feaffa9de","2026-07-18T09:41:02.809000","2026-07-27T17:37:30.010000","anonymous","anonymous","false"
+"","true","","","","יש לשים את הרמקולים בעמדות שלהם בחוץ לתחילת הסרוויס ","floor","required","","opening","[]","","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/4d4deba55_1.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/4d22a213a_2.jpeg""]","לפזר רמקולים לבחוץ ","","always","0","bring the speakers to the outside ","6a049e1926a1383c345154ec","2026-05-13T15:51:53.247000","2026-05-13T15:56:01.612000","anonymous","anonymous","false"
+"","true","","","","יש לחבר את הרמקולים לעמדות שלהם בטעינה","floor","required","","closing","[]","","[]","לחבר את הרמקולים לטעינה ","","always","9","connecting the speakers to charging ","6a049db63ffe71b60d70a742","2026-05-13T15:50:14.590000","2026-05-13T15:58:58.061000","anonymous","anonymous","false"
+"","true","","total cleaning of the flower pots and the plants of the balcony - cigarette butts and other garbage ","","ניקוי כולל של כל האדמה של הצמחים במרפסת ובכניסה - ניקוי של בדלי סיגריה ושאר זבל ","floor","none","","both","[""thursday""]","","[]","לנקות את הצמחים מבדלים וזבל אחר ","","specific_days","0","total cleaning of the flower pots and the plant ","69f8753c4703b3a5b06760db","2026-05-04T10:30:20.541000","2026-05-04T10:31:04.301000","anonymous","anonymous","false"
+"Vérifier que le bouchon de la cartouche de gaz n'est pas abaissé et qu'il n'y a pas de fuite de gaz","true","Il est nécessaire de vérifier que les stations de Shabu-Shabu ne fuient pas de gaz et de s'assurer que tous les boutons de verrouillage sont ouverts et non verrouillés (bouton de verrouillage en position haute).","It is necessary to check that the Shabu-Shabu stations are not leaking gas and to ensure that all locking buttons are open and not locked (locking button in the up position).","ガスカセットのキャップが下がっておらず、ガス漏れがないか確認する","יש לבדוק שעמדות שאבו שאבו לא דולפות גז ויש לוודא שכל הלחצני נעילה פתוחים ולא נעולים ( כפתור נעילה למעלה ) ","floor","none","Необходимо проверить, что станции для сябу-сябу не пропускают газ, и убедиться, что все кнопки блокировки открыты, а не заблокированы (кнопка блокировки в верхнем положении).","closing","[]","しゃぶしゃぶステーションからガス漏れがないか確認し、すべてのロックボタンが開いており、ロックされていないこと（ロックボタンが上向きの状態）を確認してください。","[]","לבדוק שהפקק של הגזיות לא מורד ולא בורח גז","Проверить, что колпачок газового баллона не опущен и газ не утекает","always","0","Check that the gas canister cap is not lowered and gas is not leaking","69f874240df2df871a61de35","2026-05-04T10:25:40.499000","2026-07-27T15:32:00.470000","anonymous","anonymous","false"
+"","true","","put the cleaning basket at the brown station for the cleaning ","","לשים את הפיילה בעמדה החומה לפינויים ","floor","required","","opening","[]","","[]","לשים את הפיילות לפינויים בעמדה החומה ","","always","0","put the cleaning basket at the brown station ","69f872e2ddc89690ea4c9b42","2026-05-04T10:20:18.529000","2026-07-24T11:43:05.591000","anonymous","anonymous","false"
+"","true","","a total cleaning of the shabu shabu gas and bring them back to their places ","","ניקוי כללי של כל הגזיות של השאבו שאבו ולהחזיר אותם למקום ","floor","required","","both","[""friday""]","","[]","ניקוי כלל הגזיות של השאבו שאבו ","","specific_days","3","total cleaning of the shabu shabu station ","69f86d8c7ed8c17ad0741fc6","2026-05-04T09:57:32.255000","2026-07-24T11:55:14.417000","anonymous","anonymous","false"
+"Raccordement électrique à la station marron","true","L'électricité doit être connectée derrière la station marron (connecter l'électricité en deux divisions : 1- à l'électricité du champignon chauffant le plus proche de la station marron 2- à l'électricité du champignon chauffant plus éloigné) Les câbles doivent être entourés par l'extérieur !","The electricity needs to be connected behind the brown station (connect electricity in two splits: 1- to the electricity of the heating mushroom closest to the brown station 2- to the electricity of the more distant heating mushroom) The cables should be enclosed from the outside!","茶色のステーションへの電気接続","יש לחבר את החשמל מאחורי העמדה החומה ( לחבר את החשמל בשני פיצולים : 
+1- לחשמל של הפטריית חימום הקרובה לעמדה החומה 
+2- לחשמל של הפטריית חימום הרחוקה יותר ) 
+יש להקיף את הכבלים מבחוץ ! 
+","floor","none","Электричество необходимо подключить за коричневой станцией (подключить электричество в две разводки: 1- к электричеству ближайшего к коричневой станции обогревателя 2- к электричеству более дальнего обогревателя) Кабели должны быть закрыты снаружи!","opening","[]","茶色のステーションの後ろに電気を接続する必要があります（電気を2つの分岐で接続します：1- 茶色のステーションに最も近い暖房マッシュルームの電気に 2- より遠くの暖房マッシュルームの電気に）ケーブルは外側から囲む必要があります！","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/9938fd2e5_022bee7e-9bf5-46a2-bfab-b0b4cfaacc66.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/c95ce0292_66b9a289-de10-4a46-a4ec-cfce5db30f92.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/c9e03649d_ba7c2b34-bf6c-4352-892c-2df764ecdcd5.jpg""]","חיבור החשמל לעמדה החומה ","Подключение электричества к коричневой станции","always","12","Connecting the electricity to the brown station","69ac43a3bac2417c2c736f51","2026-03-07T15:26:27.094000","2026-05-13T15:54:49.111000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Connexion électrique à la station blanche","true","Connectez l'électricité à la station blanche où toutes les prises sont sur le côté gauche des sorties électriques","Connect the electricity at the white station where all the sockets are on the left side of the electrical outlets","ホワイトステーションでの電気接続","לחבר את החשמל בעמדה הלבנה שכל השקעים בצד שמאל של היציאות חשמל ","floor","none","Подключить электричество на белой станции, где все розетки находятся с левой стороны электрических выходов","opening","[]","電気をホワイトステーションに接続し、すべてのソケットが電源コンセントの左側にあることを確認してください","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/8d633772c_644f389f-72f7-40ef-94ca-0898ffca66b8.jpg""]","חיבור החשמל בעמדה הלבנה ","Подключение электроэнергии на белой станции","always","11","Electricity connection at the white station","69ac3fb0233094458268e70a","2026-03-07T15:09:36.580000","2026-07-24T11:44:57.755000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Stock pour Station Blanche","true","Sortir tous les stocks manquants pour la station blanche à l'extérieur :
+Couvert
+Verres
+Assiettes
+Serviettes
+Baguettes
+Pailles jetables
+Lingettes pour nettoyer les tables
+Lingettes pour stations de sauce soja
+Cetz Ratz
+Cendriers
+Assiettes à sauce (pour shabu-shabu)","Take out all the missing stock for the white station outside:
+Cutlery
+Glasses
+Plates
+Napkins
+Chopsticks
+Disposable straws
+Table cleaning wipes
+Soy sauce station wipes
+Cetz Ratz
+Ashtrays
+Sauce plates (for shabu-shabu)","ホワイトステーションの在庫","להוציא את כל המלאים שחסרים לעמדה הלבנה בחוץ: 
+סכו""ם 
+כוסות
+צלחות
+מפיות
+צ'ופסטיקס
+קשים חד""פ 
+מגבונים לניקוי שולחן
+מגבונים לעמדות סויה 
+צץ רץ
+מאפרות
+צלחות רטבים ( לשאבו- שאבו ) ","floor","required","Вывести все недостающие запасы для белой станции на улице:
+Приборы
+Стаканы
+Тарелки
+Салфетки
+Палочки для еды
+Одноразовые трубочки
+Влажные салфетки для очистки столов
+Влажные салфетки для станций соевого соуса
+Цец Рац
+Пепельницы
+Тарелки для соуса (для шабы-шабы)","opening","[]","外のホワイトステーションに不足しているすべての在庫を取り出す:
+カトラリー
+グラス
+皿
+ナプキン
+お箸
+使い捨てストロー
+テーブル清掃用ワイプ
+醤油ステーション用ワイプ
+チェッツ・ラッツ
+灰皿
+ソース皿（しゃぶしゃぶ用）","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/3d257e08e_f0c82f9b-c04d-49c7-9b00-808999a51227.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/dcf7792e7_df7b334f-fbb7-40e7-a704-ad66199e91b5.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/239c147ab_be2ace18-e96f-48b1-990a-e51725c743eb.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/15a5b6001_55287616-72a1-4e9d-9cd9-7c696c7723e8.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/70c505aa5_60d35fb1-f777-48ef-ae02-a2c4dd9cdce8.jpg""]","מלאים לעמדה לבנה ","Запасы для Белой Станции","always","7","Stock for White Station","69ac3e61942b45ba7548da08","2026-03-07T15:04:01.683000","2026-05-13T15:54:49.107000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplissage des stations de sauce soja avec des lingettes","true","À la fin de chaque service, 5 lingettes doivent être mises dans la station de sauce soja située sur les tables.","At the end of each shift, 5 wipes should be placed in the soy sauce station located on the tables.","ソーススタンドにウェットティッシュを補充する","יש למלא בכל סוף משמרת מגבונים בעמדת סויה הנמצאת על השולחנות ( 5 מגבונים בכל עמדה ) ","floor","none","В конце каждой смены необходимо положить 5 салфеток в станцию соевого соуса, расположенную на столах.","closing","[]","各シフトの終わりに、テーブルにある醤油スタンドに5枚のウェットティッシュを補充してください。","[]","מילוי עמדות הסויה במגבונים ","Заполнение станций соевого соуса салфетками","always","1","Filling the Soy Sauce Stations with Wipes","69ac3b01e4e782ec57eaab29","2026-03-07T14:49:37.875000","2026-05-13T15:58:58.019000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Nettoyer et vérifier les réchauds à gaz","true","Il faut nettoyer les réchauds à gaz du shabu-shabu et vérifier que le bouton du dessus (que le gaz n'est pas allumé) est en position correcte.","The gas stoves of the shabu-shabu must be cleaned and check that the button on top (the gas is not on)","ガスコンロの清掃と点検","יש לנקות את הגזיות של השאבו-שאבו ולבדוק שהלחצן למעלה ( שהגז לא דולק )  ","floor","optional","Необходимо очистить газовые плиты шабы-шабы и проверить, чтобы кнопка сверху (газ не горит) была в правильном положении.","closing","[]","しゃぶしゃぶのガスコンロを清掃し、上のボタン（ガスが点灯していないこと）を確認する必要があります。","[]","לנקות ולבדוק גזיות ","Очистить и проверить газовые плиты","always","2","Clean and check gas stoves","69ac38f58278031ba7db23d4","2026-03-07T14:40:53.431000","2026-05-13T15:58:58.012000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Saisir les stocks dans l'application","true","Les stocks doivent être saisis dans l'application (ce qui manque)","The inventory must be entered in the application (what is missing)","アプリに在庫を入力する","יש להזין את המלאים באפליקציה (אם לקחתם מהמחסן לעדכן מה וכמה לקחתם) ","floor","none","Запасы необходимо ввести в приложение (чего не хватает)","both","[]","在庫をアプリに入力する必要があります（不足しているもの）","[]","להזין את המלאים באפליקציה ","Ввести запасы в приложение","always","13","Enter the inventory in the application","69ac38622c928074333cd4f7","2026-03-07T14:38:26.390000","2026-05-13T15:58:58.040000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Entrer les chariots à l'intérieur","true","Entrer les chariots à l'intérieur avec précaution en utilisant la rampe (retirer les objets fragiles pour qu'ils ne tombent pas)","Carefully bring the carts inside using the ramp (remove fragile items so they do not fall)","カートを中に入れる","להכניס את העגלות פנימה בזהירות בעזרת הרמפה ( להוריד את דברים השבירים שלא יפלו ) ","floor","none","Осторожно занести тележки внутрь, используя пандус (убрать хрупкие вещи, чтобы они не упали)","closing","[]","注意してカートを中に入れ、ランプを使います（壊れやすいものを取り除いて、落ちないようにします）","[]","להכניס את העגלות פנימה ","Занести тележки внутрь","always","3","Bring the carts inside","69ac37f94c57495ba0e13fd6","2026-03-07T14:36:41.297000","2026-05-13T15:58:58.010000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplir le Togarashi et l'huile pimentée et nettoyer leurs récipients","true","Remplir le Togarashi pour qu'il soit prêt pour la semaine prochaine","Refill the Togarashi to be ready for next week","七味唐辛子とラー油を補充し、容器を洗浄する","למלא את הטוגראשי שיהיה מוכן לשבוע הבא ","floor","required","Заполнить тогараши, чтобы всё было готово к следующей неделе","closing","[""saturday""]","来週に向けて七味唐辛子を補充しておくこと","[]","למלא את הטוגראשי ושמן צילי ולנקות את הכלים שלהם","Заполнить тогараши и масло чили, а также очистить их емкости","specific_days","0","Refill the Togarashi and chili oil and clean their containers","69ac36d8d158a2ad40fecf5d","2026-03-07T14:31:52.926000","2026-07-27T15:30:55.568000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Vider les sauces soja pour la semaine prochaine","true","Vider les sauces soja, mettre toute la sauce soja dans un fût et le fermer, envoyer les bouteilles restantes pour nettoyage.","To empty the soy sauces, put all the soy in a barrel and seal it, send the remaining bottles for cleaning","来週のためにしょうゆを空にする","לרוקן את הסויות לשים את כל הסויה בפילה ולסגור אותה , לשלוח את הבקבוקים שנשארו לשטיפה ","floor","none","Опустошить соевый соус, положить весь соевый соус в бочку и закрыть её, отправить оставшиеся бутылки на мытьё.","closing","[""saturday""]","しょうゆを空にして、すべてのしょうゆをタンクに入れて蓋をし、残りのボトルを洗浄に送る。","[]","ריקון הסויות לשבוע הבא ","Опустошить соевый соус на следующую неделю","specific_days","0","Empty the soy sauces for next week","69ac36add0b9aa6fb25235db","2026-03-07T14:31:09.323000","2026-03-07T14:31:09.323000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Nettoyage du sol extérieur","true","Balayer l'extérieur pour s'assurer qu'il ne reste rien sur le sol.","Sweep the outside to ensure nothing is left on the floor.","外の床掃除","לסרוק את הבחוץ לוודא שלא נשאר שום דבר על הרצפה ","floor","none","Подмести на улице, чтобы убедиться, что на полу ничего не осталось.","closing","[]","外を掃除して、床に何も残っていないことを確認してください。","[]","סריקת הרצפה בחוץ ","Уборка пола на улице","always","6","Outdoor Floor Cleaning","69ac3519e6ceca0c7a231c48","2026-03-07T14:24:25.111000","2026-05-13T15:58:58.053000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplissage des tiroirs latéraux","true","Remplissage complet des tiroirs latéraux (équipements supplémentaires de plats à emporter, cocottes à emporter, bols, assiettes) baguettes de rechange pour plats à emporter et normales, serviettes normales, et vérifiez le tiroir des managers, vérifiez qu'il y a suffisamment de papier pour imprimante sous le tiroir des managers.","Full filling of side drawers (extra takeaway supplies, takeaway cocottes, bowls, plates) spare chopsticks for takeaway and regular, regular napkins, and check the managers' drawer, check that there is enough printer paper under the managers' drawer.","サイドドロワーの充填","נדרשת תמונה לכל מגירה!
+מילוי מלא של המגירות צד ( ציוד אקסטרה  טייק אווי , קוקוטים טייקאווי קערות, צלחות) צץ רץ ספייר צ'ופסטיקס טייק אווי ורגיל, מפיות רגילות  ולבדוק מגירת מנהלים, לבדוק שיש מספיק נייר מדפסת מתחת למגירת מנהלים. ","floor","required","Полное заполнение боковых ящиков (дополнительное оборудование для еды на вынос, кокоты на вынос, миски, тарелки) запасные палочки для еды на вынос и обычные, обычные салфетки, а также проверьте ящик менеджера, проверьте, есть ли достаточное количество бумаги для принтера под ящиком менеджера.","both","[]","サイドドロワーの完全な充填（エクストラテイクアウト用品、テイクアウト用ココット、ボウル、皿）テイクアウト用と通常用のスペア箸、通常のナプキン、マネージャーのドロワーをチェックし、マネージャーのドロワーの下に十分なプリンター用紙があるか確認します。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/3589ac787_1.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/13fff339a_2.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/531477b39_3.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/eb6a92ca3_4.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/655997336_5.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/907f93b03_5.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/2498afd1f_6.jpeg""]","מילוי מגירות צד ","Заполнение боковых ящиков","always","8","Side Drawer Filling","69ac33d5c289765e728a657b","2026-03-07T14:19:01.448000","2026-07-24T11:48:59.690000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplir la station intérieure :","true","Montant (après polish)
+Serviettes pour la table, course, baguettes, cookouts, tasses, serviettes à cocktail, cure-dents, lingettes.","Amount (after polish)
+Napkins for the table, run-around, chopsticks, cookouts, cups, cocktail napkins, toothpicks, wipes.","内部ステーションを満たす：","למלא את העמדה הפנימית :
+סכום ( אחרי פוליש )
+מפיות לשולחן,צץ רץ ,צ'ופסטיקס ,קוקוטים, כוסות ,מפיות קוקטייל ,קיסמי שיניים , מגבונים לניקוי שולחן , מגבונים לעמדת סויה, צלחות לרטבים ( שאבו-שאבו ) 
+","floor","required","Сумма (после полировки)
+Салфетки для стола, бегун, палочки для еды, кукурузы, стаканы, коктейльные салфетки, зубочистки, салфетки.","opening","[]","金額（ポリッシュ後）
+テーブル用ナプキン、ランアラウンド、箸、クッカウト、カップ、カクテルナプキン、つまようじ、ワイプ。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/ac1dea786_22f6397d-b5c7-495f-b2c9-464de87a36b6.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/b48ff99ae_1bbd4fa6-2ad8-4efb-a775-58d18ddce769.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/a660c81e7_88b06305-5ce0-4a94-91b3-0641687ba425.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/ea09c6307_93fa22a7-3b14-42a2-9ae5-164bd456b804.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/db62ffb8f_c1bca82f-c038-4b6d-ae2a-cf5adac0ed40.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/07e456842_bc7f9e72-8e2b-4ddc-bae1-8c38d7577ae8.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/77e759535_b9cc498d-6087-4107-b347-9b51723a3d65.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/aa59997f1_504638c7-9eba-4170-9a12-301700abc6c2.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/a5f932dcb_fe349fc0-da9a-4667-9aab-7c90b81098b1.jpg""]","מלאים בעמדה פנימית ","Заполнить внутреннюю станцию :","always","4","Fill the internal station:","69ac2f91163e76fcfd97e575","2026-03-07T14:00:49.767000","2026-05-13T15:54:49.122000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplissage de la station à emporter","true","Remplissage de la station à emporter :
+Cocktails
+Bols de ramen
+Bols de sushi
+Baguettes
+Sacs à emporter
+","Filling Takeaway Station :
+Cocktails
+Ramen bowls
+Sushi bowls
+Chopsticks
+Takeaway bags
+","テイクアウトステーションの補充","מילוי עמדת טייקאווי : 
+קוקוטים 
+קערות ראמן 
+קערות סושי 
+צ'ופסטיקס 
+כפות
+שקיות טייקאווי 
+","floor","required","Заполнение станции на вынос :
+Коктейли
+Миски рамен
+Миски суши
+Палочки для еды
+Сумки на вынос
+","opening","[]","テイクアウトステーションの補充 :
+カクテル
+ラーメンボウル
+寿司ボウル
+お箸
+テイクアウトバッグ
+","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/509cd1b6e_TA.jpeg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/96e451d82_TA.jpeg""]","מילוי עמדת טייקאווי ","Заполнение станции на вынос","always","9","Filling Takeaway Station and fill the gaps at finito ","69ac0b21807f430913fec00e","2026-03-07T11:25:21.636000","2026-07-24T12:13:31.036000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage des pots de fleurs à l'extérieur des déchets","true","Nettoyage des pots de fleurs des déchets (débris en plastique, etc.)","Cleaning flower pots from garbage (plastic cigarette butts, etc.)","外の鉢のゴミ掃除","ניקוי עציצים מאשפה ( בדלים פלסטיק וכו ) ","floor","none","Уборка цветочных горшков от мусора (пластиковые окурки и т.п.)","closing","[""thursday""]","ゴミから鉢を掃除する（プラスチックの煙草の吸い殻など）","[]","ניקוי עציצים בחוץ מאשפה ","Уборка цветочных горшков на улице от мусора","specific_days","3","Cleaning flower pots outside from garbage","69ac0a38183ace2d9a05f857","2026-03-07T11:21:28.093000","2026-03-07T14:38:47.734000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage des portes","true","Nettoyer le verre et la poignée de toutes les portes du restaurant (4 portes)","To clean the glass and the handle of all the restaurant's doors (4 doors)","ドアの掃除","לנקות את הזכוכית והידית בכל הדלתות של המסעדה (4 דלתות )","floor","required","Очистить стекло и ручку всех дверей ресторана (4 двери)","opening","[]","レストランのすべてのドアのガラスとハンドルを掃除する（4ドア）","[]","ניקיון של הדלתות ","Уборка дверей","always","13","Cleaning of the doors","69aaeaa66e87d09ae8b6674a","2026-03-06T14:54:30.524000","2026-05-13T15:54:49.151000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"","true","","Thorough cleaning from the bottom of all chairs and tables.","","ניקיון יסודי מלמטה של כל הכסאות והשולחנות .","floor","required","","opening","[""saturday""]","","[]","ניקוי יסודי של כל השולחנות והכסאות","","specific_days","4","Thorough cleaning of all tables and chairs.","69aaea28ae277bbaa7b1f667","2026-03-06T14:52:24.428000","2026-05-04T09:58:18.853000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage de l'armoire arrière.","true","Dégager tous les meubles arrière (la caisse enregistreuse et le poste de miso + toutes les étagères avec la décoration). Nettoyez-les soigneusement et remettez tout à sa place.","Clearing out all the back cabinets (the register and miso station + all shelves with decorations). Cleaning them thoroughly and returning everything to its place.","後ろのキャビネットの掃除。","פינוי של כל השידות האחוריות(הקופה ועמדת המיסו +כל המדפים עם הדקורציה) .
+לנקות אותן יסודי ולהחזיר הכל למקום.","floor","required","Убрать все задние шкафы (касса и станция с мисо + все полки с декором). Тщательно их очистить и вернуть все на место.","opening","[""wednesday""]","すべての後ろのキャビネット（レジと味噌ステーション + 装飾品が置かれているすべての棚）を片付けます。徹底的に掃除し、すべてを元の場所に戻します。","[]","ניקוי של עמדת מיסו ומדפים","Уборка заднего шкафа.","specific_days","2","Cleaning of the back cabinet.","69aae9103432997130abe0eb","2026-03-06T14:47:44.862000","2026-05-04T09:58:18.863000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage des commodes au sol.","true","Vider la commode de la télévision et les commodes des fenêtres et les nettoyer en profondeur./","Empty the TV dresser and the window dressers and clean them thoroughly.","フロアのドレッサーの清掃。","פינוי שידת הטלוויזיה ושידות החלונות וניקוי יסודי ","floor","required","Опустошить комод телевизора и комоды у окон и тщательно их очистить./","opening","[""tuesday""]","テレビのドレッサーと窓のドレッサーを空にして、徹底的に掃除してください。/","[]","ניקוי השידות בפלור","Уборка комодов на этаже.","specific_days","1","Cleaning the Dressers in the Floor.","69aae785b9d5e62a881726cd","2026-03-06T14:41:09.444000","2026-05-04T09:58:18.859000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage approfondi de tous les postes des serveurs (3)/","true","Enlever tous les couverts, assiettes et verres.
+Nettoyage approfondi des postes et des placards.5","Removing all cutlery, dishes, and glasses.
+Thorough cleaning of the stations and the cupboards.5","すべてのウェイター駅の徹底清掃（3）/","הוצאת כל הסכום הצלחות והכוסות .
+ניקוי יסודי של העמדות והקפוסאות.
+החזרה של כל הציוד למקום .","floor","required","Удаление всей посуды, тарелок и стаканов.
+Тщательная уборка станций и шкафчиков.5","opening","[""monday""]","すべてのカトラリー、皿、グラスを取り除く。
+ステーションとキャビネットの徹底清掃。5","[]","ניקוי יסודי של כל עמדות המלצרים(3 עמדות)","Тщательная уборка всех станций официантов (3)/","specific_days","0","Thorough cleaning of all waiter stations (3)/","69aae69e05971baf35714fff","2026-03-06T14:37:18.618000","2026-05-04T09:58:18.861000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage de toute l'île","true","Retirer tout l'équipement et les verres de l'île et envoyer les tapis au lavage.
+Nettoyer soigneusement tout l'acier inoxydable.
+","Remove all equipment and cups from the island and send the carpets for washing.
+Thoroughly clean all stainless steel.
+","全ての島の清掃","לפנות את כל הציוד והכוסות מהאי ומעמדת הקפה ולשלוח את השטיחים לשטיפה .
+לנקות יסודי את כל הנירוסטה והמקפיא","bar","required","Убрать все оборудование и чашки с острова и отправить ковры на стирку.
+Тщательно очистить всю нержавеющую сталь.
+","opening","[""saturday""]","島から全ての器具とカップを取り除き、カーペットを洗濯に出します。
+全てのステンレス鋼を徹底的に清掃します。
+","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/cf5e6aadc_.jpeg""]","ניקוי של כל האי ","Уборка всего острова","specific_days","5","Cleaning of the entire island","69aae45a2b1717da507649d9","2026-03-06T14:27:38.429000","2026-07-27T17:28:26.548000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage de l'étalage","true","Essuyage de toutes les bouteilles et des étagères de présentation","Wiping all bottles and display shelves","ディスプレイの清掃","ניגוב של כל הבקבוקים ומדפי הדיספליי ","bar","required","Протирка всех бутылок и полок витрины","opening","[""wednesday""]","すべてのボトルとディスプレイ棚の拭き掃除","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/5fd5d43d0_.jpeg""]","ניקוי הדיספליי ","Чистка витрины","specific_days","3","Cleaning the display","69aae321b7c46a2e250b68de","2026-03-06T14:22:25.534000","2026-07-27T17:28:26.520000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Nettoyage du congélateur","true","Brancher et nettoyer l'intérieur du congélateur","Connect and clean the inside of the freezer","冷凍庫の清掃","חיבור וניקוי המקפיא מבפנים ","bar","required","Подключите и очистите морозильную камеру изнутри","opening","[""monday""]","冷凍庫を接続し、内部を清掃してください","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/ec3f0fc58_.jpeg""]","ניקוי מקפיא ","Чистка морозильной камеры","specific_days","0","Freezer cleaning","69aae2b65d81ad18e288f22c","2026-03-06T14:20:38.151000","2026-07-27T17:28:26.511000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Organisation et Aménagement","true","Remplacer la poubelle et nettoyer la zone de débris. S'assurer que tous les verres sont revenus du lavage à leur place désignée. Rendre tous les tapis et ustensiles à leur place (selon la carte). Ramener la tablette et l'appareil portable à la station de charge.","Change the garbage bin and clean the disposal area. Ensure all glasses are returned from the wash to their designated place. Return all carpets and utensils to their place (according to the map). Return the tablet and the handheld device to the charging station.","整理と配置","החלפת פח זבל וניקוי עמדת פינויים. וידוא שכל הכוסות חזרו מהשטיפה למקומן הייעודי. החזרת כל השטיחים והכלים למקום (בהתאם למפה). החזרת הטאבלט והמסופון לעמדת ההטענה.
+ניקוי הבר מבחוץ .
+","bar","required","Замена мусорного ведра и уборка зоны утилизации. Убедитесь, что все стаканы вернулись из стирки на свои места. Вернуть все ковры и посуду на место (соответственно карте). Вернуть планшет и мобильное устройство на зарядную станцию.","closing","[]","ゴミ箱の交換と廃棄物処理エリアの清掃を行います。すべてのグラスが洗浄から指定の場所に戻っていることを確認します。すべてのカーペットと器具を所定の位置に戻します（地図に従って）。タブレットとハンドヘルドデバイスを充電ステーションに戻します。","[]","ארגון וסידור אחרון","Организация и Расстановка","always","7","Organization and Arrangement","699ef3b831fcb8a46fa422b9","2026-02-25T13:06:00.146000","2026-07-27T16:27:23.581000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Fermeture du coin café","true","Vider le tiroir à capsules, laver les pièces amovibles (y compris le nettoyage interne du mousseur à lait), rincer légèrement la bouilloire à l'eau et essuyer l'extérieur de toute la station.","Emptying the capsule drawer, washing detachable parts (including internal cleaning of the frother), rinsing the kettle lightly with water, and wiping the exterior of the entire station.","コーヒー・ステーションの閉店作業","ריקון מגירת קפסולות, שטיפת חלקים מתפרקים (כולל ניקוי פנימי של המקציף), שטיפה קלה במים של הקומקום וניגוב חיצוני של כל העמדה .","bar","required","Опустошение лотка для капсул, мытье съемных деталей (включая внутреннюю очистку капучинатора), легкое ополаскивание чайника водой и протирание всей станции снаружи.","closing","[]","カプセルトレイの空化、取り外し可能な部品の洗浄（ミルクフォーマーの内部清掃を含む）、ケトルの水洗い、ステーション全体の外部拭き掃除。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/9c25552fd_.jpeg""]","סגירת עמדת קפה","Закрытие кофейной станции","always","5","Closing the coffee station","699ef315230ef27e89f37767","2026-02-25T13:03:17.055000","2026-07-27T16:27:23.649000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Fermeture du stand d'accueil","true","Nettoyage approfondi du stand d'accueil et réapprovisionnement des fournitures/produits (avant la fin du service - selon la carte).","Thorough cleaning of the host stand and restocking supplies/products (before ending the shift – according to the map).","ホストスタンドの閉鎖","ניקוי יסודי של עמדת האירוח(כל הנירוסטה וגם המקררים ) ומילוי ציוד/מוצרים (לפני הירידה מהמשמרת – לפי המפה).","bar","required","Тщательная уборка стойки хоста и пополнение запасов/товаров (перед окончанием смены - согласно карте).","closing","[]","ホストスタンドの徹底的な清掃と備品/商品の補充（シフト終了前に - 地図に従って）。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/e865849cb_1000023694.jpg""]","סגירת עמדת האירוח","Закрытие стойки хоста","always","4","Closing the Host Stand","699e0ea6f4363a64483761c3","2026-02-24T20:48:38.859000","2026-07-27T16:27:23.605000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Ouverture du poste de préparation des cocktails","true","Sortir les sirops et les mettre dans le bain de glace avec l'alcool, puis remplir de glace et d'un peu d'eau.
+Miso, cordial à la fraise, sirop de riz grillé, citron, thé noir, yuzu.
+Garnitures dans des bains de glace avec de la glace et de l'eau - feuilles de shiso, feuilles de wasabi coupées en 2, concombre entier, orange entière, feuilles de menthe séparées.
+Dans deux verres à côté des bains de glace - yakitori de fraise séchée, têtes de menthe.
+Petit seau à champagne avec tous les outils de bar - ouvre-bouteilles, 2 passoires, cuillère à mélange, pilon, jigger.
+Shakers.","Take out the syrups and place them in the ice bath together with the alcohol, then fill with ice and a little water.
+Miso, strawberry cordial, roasted rice syrup, lemon, black tea, yuzu.
+Garnishes in ice baths with ice and water - shiso leaves, wasabi leaves cut in 2, whole cucumber, whole orange, separated mint leaves.
+In two glasses next to the ice baths - dried strawberry yakitori, mint sprigs.
+Small champagne bucket with all bar tools - openers, 2 strainers, bar spoon, muddler, jigger.
+Shakers.","カクテル準備ステーションのオープン","להכין את עמדת האירוח עם 4 קנקנים טאבלט ומסופון עובדים. לבדוק שיש את כל מלאי הסכום, הצלחות, קוקוטים כחולים של הבר בלבד ומפיות. סידור ועריכת הבר ל-4 זוגות (8 סועדים).","bar","required","Достать сиропы и поместить их в ледяную баню вместе с алкоголем, затем наполнить льдом и небольшим количеством воды.
+Мисо, клубничный кордиал, сироп из жареного риса, лимон, черный чай, юдзу.
+Гарниры в ледяных банях со льдом и водой - листья шисо, листья васаби, разрезанные пополам, целый огурец, целый апельсин, отделенные листья мяты.
+В двух стаканах рядом с ледяными банями - сушеная клубника якитори, верхушки мяты.
+Маленькое ведерко для шампанского со всеми барными инструментами - открывалки, 2 стрейнера, барная ложка, мадлер, джиггер.
+Шейкеры.","opening","[]","シロップを取り出し、アルコールと一緒にアイスバスに入れ、氷と少量の水を満たしてください。
+味噌、ストロベリーコーディアル、炒り米シロップ、レモン、紅茶、柚子。
+アイスバス内の氷と水にガーニッシュを入れます - 紫蘇の葉、半分に切ったわさびの葉、きゅうりまるごと1本、オレンジまるごと1個、摘んだミントの葉。
+アイスバスの横にある2つのグラスに - 乾燥イチゴの焼き鳥、ミントの頭。
+すべてのバースツールが入った小さなシャンパンバケツ - 栓抜き、ストレーナー2個、バースプーン、マッシャー、ジガー。
+シェイカー。","[]","עריכת הבר ועמדת האירוח","Открытие станции для приготовления коктейлей","always","6","Opening the cocktail preparation station","699e0afc4c4f1e46d5b8cd86","2026-02-24T20:33:00.898000","2026-07-27T17:37:30.007000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Service du saké et du vin","true","Sortir tous les vins et sakés ouverts dans le seau à champagne et remplir de glace (selon la photo).","Take out all open wines and sake into the champagne bucket and fill with ice (according to the picture).","日本酒とワインの提供","הוצאת כל היינות והסאקה הפתוחים לשמפניירה ומילוי בקרח .(לפי התמונה)","bar","required","Вынести все открытые вина и саке в ведерке для шампанского и наполнить льдом (в соответствии с фотографией).","opening","[]","開栓済みのすべてのワインと日本酒をシャンパンクーラーに入れ、氷を詰めること（写真参照）。","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/mp/public/692f863cbc8c69787b8bd274/1603ce077_.jpeg""]","הוצאה של הסאקה והיין  ","Подача саке и вина","always","0","Serving Sake and Wine","699e07cc01280773721238e5","2026-02-24T20:19:24.101000","2026-07-27T17:37:30.011000","694c11d4bdf6e14c174c120b","mikels42217@gmail.com","false"
+"Retour aux commandes en attente dans S.B.","true","","","S.Bの保留中の注文に戻る。","","host","none","","opening","[]","","[]","חזרה להזמנות סטנד ביי ","Вернуться к ожидающим заказам в S.B.","always","0","Return to pending orders in S.B.","694d89e26c73530f499c238f","2025-12-25T19:00:50.676000","2026-04-28T15:58:04.937000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Répondre aux messages sur WhatsApp et Instagram","true","Assurez-vous que tous les messages sur WhatsApp et Instagram sont traités avant la fermeture.","Ensure all messages on WhatsApp and Instagram are addressed before closing.","WhatsAppとInstagramのメッセージに返信する","לעבור על כל ההודעות 
+לוודא שכולם קיבלו מענה 
+לא לפתוח הודעות מבלוגרים","host","none","Убедитесь, что все сообщения в WhatsApp и Instagram обработаны перед закрытием.","opening","[]","閉店前にWhatsAppとInstagramのすべてのメッセージに対応してください。","[]","חזרה להודעות בווצאפ ובאינסטגרם ","Ответить на сообщения в WhatsApp и Instagram","always","0","Respond to messages on WhatsApp and Instagram","694d89c1d192606c3aad28f2","2025-12-25T19:00:17.339000","2026-04-28T16:00:30.563000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Téléphone et Tablette","true","Téléphone en mode avion, remettre à un manager. Tablette à charger. Support pour la tablette à sa place.","Phone on airplane mode, hand it to a manager. Tablet for charging. Stand for the tablet in its place.","電話とタブレット","לוודא שהטאבלט מוטען והטלפון על מצב טיסה אצל אחד המנהלים ","host","none","Телефон в режиме «в самолете», передать менеджеру. Планшет для зарядки. Подставка для планшета на месте.","closing","[]","電話は飛行機モードにして、マネージャーに渡す。タブレットは充電する。タブレットのスタンドを所定の位置に置く。","[]","הטענה של הטאבלט והחזרת טלפון","Телефон и Планшет","always","0","Phone and Tablet","694d87cbf3b3ec25849769ef","2025-12-25T18:51:55.942000","2026-04-28T16:04:48.139000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Vérification des Menus","true","Vérifiez et nettoyez les menus. Jetez les menus sales à la poubelle et informez le groupe en cas de pénurie. Remettez les menus nettoyés dans le tiroir.","Check and clean the menus. Dispose of dirty menus in the trash and notify the group of any shortages. Return the cleaned menus to the drawer.","メニュー確認","בדיקה של התפריטים וניקיונם. זריקת התפריטים המלוכלכים לפח ולכתוב בקבוצה שיש חוסר בתפריטים. החזרה של הנקיים למגירה.","host","required","Проверьте и очистите меню. Выбросьте грязное меню в мусор и сообщите группе о нехватке. Верните чистое меню в ящик.","closing","[]","メニューを確認し、清掃してください。汚れたメニューはゴミ箱に捨て、不足がある場合はグループに通知します。清掃されたメニューは引き出しに戻します。","[]","בדיקת תפריטים","Проверка меню","always","0","Menu Check","694d868a16db678ab047b333","2025-12-25T18:46:34.773000","2026-04-28T16:05:04.631000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Nettoyage de la Station d'Accueil et du Premier Tiroir","true","Nettoyez la station d'accueil. Organisez et nettoyez le premier tiroir et retournez les tasses pour lavage.","Clean the host station. Organize and clean the first drawer and return cups for washing.","ホストステーションと第一引き出しの清掃","ניקיון של העמדה. ניקיון וסדר של מגירה ראשונה והחזרת כוסות לשטיפה.","host","none","Уберите участки хостинга. Убедитесь в чистоте и порядке первого ящика, верните стаканы на мытьё.","closing","","ホストステーションを掃除します。第一引き出しを整理し、掃除し、カップを洗浄のために戻します。","","ניקיון עמדת האירוח ומגירה ","Уборка Участка Хостинга и Первого Ящика","","0","Cleaning Host Station and First Drawer","694d85abc5765da71c044249","2025-12-25T18:42:51.378000","2025-12-26T03:12:53.284000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Raccordement de tables dans le restaurant","true","Raccordement des tables selon le croquis","Connecting tables according to the sketch","レストランのテーブルを接続する","חיבור שולחנות בהתאם לסקיצה","host","none","Соединение столов согласно эскизу","opening","[]","スケッチに従ってテーブルを接続する","[]","חיבור שולחנות בהתאם לסקיצה ","Соединение столов в ресторане","always","0","Connecting tables in the restaura","694d85231d3a0ed257f9e6d5","2025-12-25T18:40:35.717000","2026-04-28T15:59:32.828000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Vérifier les Étiquettes Clients","true","VIP, Allergie, Poussette, et Chaise Haute","VIP, Allergy, Stroller, and High Chair","顧客タグの確認","VIP, אלרגיה, עגלה וכיסא תינוק","host","none","VIP, Аллергия, Коляска и Детский Стул","opening","","VIP、アレルギー、ベビーカー、ハイチェア","","מעבר על תגיות לקוח","Просмотр Тегов Клиента","","0","Review Customer Tags","694d84c787e569baa6007de2","2025-12-25T18:39:03.956000","2025-12-26T03:13:37.754000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Effectuer des confirmations d'arrivée par téléphone","true","Confirmer les arrivées pour ceux qui n'ont pas confirmé sur Tabit. Appeler également les grands groupes qui ont confirmé sur Tabit pour vérifier les nombres et garantir une arrivée en toute sécurité.","Confirm arrivals for those who haven't confirmed on Tabit. Also, call large groups who confirmed on Tabit to verify numbers and ensure safe arrival.","到着の電話確認を行う","אישורי הגעה למי שלא אישר בטאביט. קבוצות גדולות גם שאישרו בטאביט להתקשר לוודא כמות והגעה בטוחה.","host","none","Подтверждать прибытие для тех, кто не подтвердил на Tabit. Также звонить большим группам, которые подтвердили на Tabit, чтобы уточнить количество и гарантировать безопасное прибытие.","opening","[]","未確認者を確認し、Tabitで確認した大グループにも電話をかけて、人数を確認し、安全な到着を確保する。","[]","ביצוע אישורי הגעה טלפוניים","Проведение телефонных подтверждений о прибытии","always","0","Perform phone confirmations of arrivals","694d8470fa022e134d01f34a","2025-12-25T18:37:36.937000","2026-04-28T16:00:42.707000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Vérification de la zone de réception","true","Vérifier la zone de réception, les menus, la propreté de la station et le premier tiroir.","Check reception area, menus, cleanliness of the station, and first drawer.","受付エリアの確認","בדיקת עמדת האירוח, תפריטים, ניקיון העמדה ומגירה ראשונה.","host","none","Проверить зону регистрации, меню, чистоту станции и первый ящик.","opening","[]","受付エリア、メニュー、ステーションの清掃、最初の引き出しを確認する。","[]","בדיקת עמדת האירוח","Проверка зоны регистрации","always","0","Check Reception Area","694d83fc174578eb352bf89d","2025-12-25T18:35:40.714000","2026-04-28T16:00:52.049000","694d815a42826390414f32df","gayak12p@gmail.com","false"
+"Disposition et Alignement des Tables et Chaises","true","Assurez-vous que toutes les tables et chaises sont bien disposées et alignées et assurez-vous qu'elles ne sont pas bancales.","Make sure that all tables and chairs are arranged and aligned well and ensure they are not wobbly.","テーブルと椅子の配置と整列","ודא שכל השולחנות והכיסאות מסודרים ומיושרים היטב ולוודא שהם לא מתנדנדים ","floor","none","Убедитесь, что все столы и стулья правильно расставлены и выровнены, и проверьте, чтобы они не шатались.","opening","[]","すべてのテーブルと椅子が適切に配置され整列されていることを確認し、揺れないことを確認してください。","[]","סידור ויישור שולחנות כיסאות","Расстановка и Выравнивание Столов и Стульев","always","1","Arrangement and Alignment of Tables and Chairs","694d14230f342193a7a514e0","2025-12-25T10:38:27.375000","2026-05-13T15:54:49.094000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyage du restaurant","true","Assurez-vous que le restaurant est entièrement nettoyé et désinfecté avant la fermeture.","","レストランの清掃","","floor","none","Убедитесь, что ресторан тщательно убран и продезинфицирован перед закрытием.","closing","[]","閉店前にレストランを徹底的に清掃・消毒してください。","[]","טיטוא המסעדה","Уборка ресторана","always","4","Restaurant brooming","694c16eec28b000179080a2a","2025-12-24T16:38:06.231000","2026-05-13T15:58:58.056000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Inventaire pour l'extérieur","true","Sortir tout l'inventaire manquant pour les stations à l'extérieur :
+- Tasses
+- Assiettes
+- Serviettes
+- Bâtonnets
+- Lingettes de nettoyage de table
+- Agitateurs
+- Cendriers","To take out all the missing inventory for the stations outside:
+- Cups
+- Plates
+- Napkins
+- Chopsticks
+- Table cleaning wipes
+- Stirrers
+- Ashtrays","外に出す在庫","להוציא את כל המלאים שחסרים לעמדה החומה בחוץ: 
+סכו""ם 
+כוסות
+צלחות
+מפיות
+צ'ופסטיקס
+מגבונים לניקוי שולחן
+מגבונים לעמדות סויה 
+צץ רץ
+מאפרות
+צלחות רטבים ( לשאבו- שאבו ) ","floor","required","Вынести все отсутствующие запасы на станции снаружи:
+- Чашки
+- Тарелки
+- Салфетки
+- Палочки для еды
+- Влажные салфетки для уборки стола
+- Мешалки
+- Пепельницы","both","[]","外のステーションに足りない在庫をすべて出す：
+- カップ
+- 皿
+- ナプキン
+- お箸
+- テーブルクリーニングワイプ
+- スターラー
+- 灰皿","[""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/53860954c_39848a68-df2c-4b9b-a05d-7cf52c460f32.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/c1f80dac4_b47b7a9c-e0c6-41ba-9088-04135d9b2c48.jpg"",""https://base44.app/api/apps/692f863cbc8c69787b8bd274/files/public/692f863cbc8c69787b8bd274/a1f1bdce3_19a35eee-cfc1-42a2-93d2-c46c7d77a9a0.jpg""]","מלאים לעמדה החומה ","Инвентарь для улицы","always","12","Inventory for Outside","694bf8e4f19a5289cf4e331e","2025-12-24T14:29:56.922000","2026-05-13T15:58:58.027000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Arranger le sol","true","Disposition des tables : 
+Serviettes 6 
+Assiettes 
+Cocottes 
+Verres 
+Baguettes","Arranging Tables: 
+Napkins 6 
+Plates 
+Cocottes 
+Glasses 
+Chopsticks","フロアの配置","ניקוי ועריכת השולחנות (בפנים ובחוץ) : 
+מפיות,צ'ופסטיקס, צלחות, קוקוטים,כוסות 
+","floor","required","Упорядочение столов: 
+Салфетки 6 
+Тарелки 
+Кокоты 
+Стаканы 
+Палочки для еды","opening","[]","テーブルの配置： 
+ナプキン 6 
+プレート 
+ココット 
+グラス 
+箸","[]","עריכת הפלור","Упорядочить пространство","always","3","Arrange the Floor","694bf842c61644394d50b641","2025-12-24T14:27:14.932000","2026-05-13T15:54:49.101000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Station Miso","true","Vérifiez que la station de soupe miso est opérationnelle et remplie (algues et oignons verts, louche, suffisamment de bols et suffisamment de cuillères).","Check that the miso soup station is operational and stocked (seaweed and green onions, ladle, enough bowls, and enough spoons).","味噌ステーション","לבדוק שהעמדת מרק מיסו תקינה ומלאה (אצות ובצל ירוק , מצקת ,צלחות וכפיות ).","floor","none","Проверьте, что станция мисо-супа в рабочем состоянии и запасена (водоросли и зеленый лук, половник, достаточно тарелок и ложек).","opening","[]","味噌スープスタンドが正常で補充されているか確認（海藻とネギ、レードル、十分なボウル、そして十分なスプーン）。","[]","עמדת מיסו","Станция мисо","always","14","Miso Station","694bf7b08adb65c417142329","2025-12-24T14:24:48.029000","2026-05-13T15:54:49.113000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Chargement des Tablettes","true","Compter les tablettes et informer le superviseur/le manager du nombre total (6 au total) et charger les tablettes et les terminaux de carte pour le service de demain.","Count the tablets and inform the supervisor/manager how many there are (6 total) and charge the tablets and card machines for tomorrow's shift.","タブレットの充電","לספור את הטאבלטים ולהגיד לאחמש/מנהל כמה יש (6 סה""כ) והטענת הטאבלטים והסולקים למשמרת של מחר.
+להחזיר סינרים.","floor","required","Посчитайте планшеты и сообщите супервайзеру/менеджеру, сколько их (всего 6), а также зарядите планшеты и терминалы для завтрашней смены.","closing","[]","タブレットの数を数えて、スーパーバイザー/マネージャーに合計の数（6台）を伝え、明日のシフトのためにタブレットとカードリーダーを充電する。","[]","הטענת הטאבלטים והחזרת הסינרים ","Зарядка планшетов","always","11","Charging the Tablets","694bf42fb8f523183189b8ad","2025-12-24T14:09:51.380000","2026-05-13T15:58:58.018000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Plier les tables extérieures","true","Pliez toutes les tables et les chaises, rangez-les en piles soignées et couvrez-les avec une housse de protection contre la pluie.","Fold all tables and chairs, stack them neatly, and cover them with a rain cover.","屋外テーブルの折りたたみ","לקפל את כל השולחנות והכיסאות, לשים אותם בערמות מסודרות ולכסות בכיסוי נגד גשם.","floor","required","Сложите все столы и стулья, аккуратно сложите их в стопки и накройте дождевым покрытием.","closing","[]","すべてのテーブルと椅子を折りたたみ、整然と積み重ねて、雨よけカバーをかける。","[]","קיפול שולחנות בחוץ","Сложить уличные столы","always","5","Fold Outdoor Tables","694bf31373d060f53266b9b4","2025-12-24T14:05:07.997000","2026-05-13T15:58:58.042000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Remplissage de sauce soja","true","Remplir les bouteilles de sauce soja et essuyer les bouteilles d'épices/sauce soja de l'huile pour demain.","Fill soy sauce bottles and wipe spice/soy sauce bottles clean of oil for tomorrow and put the soy in the fridge ","醤油の充填","מילוי בקבוקי הסויה ולנגב את הבקבוקי תבלינים/סויה משמן למחר שיהיה נקי ולהכניס את הסויות למקרר ","floor","required","Заполните бутылки соевым соусом и протрите бутылки с пряностями/соевым соусом от масла для завтрашнего дня.","closing","[""monday"",""tuesday"",""wednesday"",""thursday"",""friday""]","醤油ボトルを満たし、明日のためにスパイス/醤油ボトルを油で拭き取る。","[]","מילוי סויה","Заполнение соевого соуса","specific_days","5","Soy Sauce Filling","694bf224d0bb236f14681b9a","2025-12-24T14:01:08.512000","2026-05-04T10:27:07.040000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Polir","true","Polir les verres pour qu'ils soient prêts pour demain et les répartir aux stations appropriées pour les verres.","Polish glasses to be ready for tomorrow and distribute them at the appropriate stations for glasses.","ポリッシュ","לפלש כוסות שיהיו מוכנות למחר ולפזר בעמדות המתאימות לכוסות.","floor","none","Отполировать стаканы, чтобы они были готовы к завтрашнему дню, и распределить их на соответствующих станциях для стаканов.","closing","[]","グラスを明日のために磨き、グラスの適切なステーションに配布する。","[]","פוליש סכום וכוסות ","Полировка","always","10","Polish","694bf1be44fbe826da04fa50","2025-12-24T13:59:26.146000","2026-07-27T15:32:28.260000","694beafbc0cb47b986e20b53","kimurayaisrael2025@gmail.com","false"
+"Réapprovisionner les jetables","true","","","使い捨て用品を補充","","kitchen","required","","","","","","מלא מחדש חד פעמיים","","","3","Restock disposables","692f8791a6797da1dc623fa2","2025-12-03T00:42:57.589000","2025-12-03T00:42:57.589000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Éteindre les équipements","true","","","機器の電源を切る","","kitchen","none","","","","","","כבה ציוד","","","2","Turn off equipment","692f8791a6797da1dc623fa1","2025-12-03T00:42:57.589000","2025-12-03T00:42:57.589000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Enlever tous les déchets","true","Sortir les sacs poubelles des stations et les mettre près de la zone de lavage.","Take out the trash bags from the stations and put them next to the wash area.","すべてのゴミを取り除く","להוציא את השקיות זבל מהעמדות ולשים אותם ליד השטיפה.","floor","none","Вывести мусорные пакеты из станций и положить их рядом с зоной мойки.","closing","[]","ステーションからゴミ袋を取り出し、洗浄エリアの近くに置いてください。","[]","לנקות את כל הזבל","Удалить весь мусор","always","8","Remove all trash","692f8791a6797da1dc623f97","2025-12-03T00:42:57.589000","2026-05-13T15:58:58.017000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Vérifier le stock du poste froid","true","","","コールドステーションの在庫を確認","","kitchen","required","","","","","","בדוק מלאי תחנה קרה","","","1","Check cold station stock","692f8791a6797da1dc623fa0","2025-12-03T00:42:57.589000","2025-12-03T00:42:57.589000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyer les surfaces de cuisine","true","","","キッチンの表面を清掃","","kitchen","none","","","","","","נקה משטחי מטבח","","","0","Clean kitchen surfaces","692f8791a6797da1dc623f9f","2025-12-03T00:42:57.589000","2025-12-03T00:42:57.589000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Remplir les serviettes et lingettes","true","","Upon starting the shift - check the server station to ensure nothing is missing. If something is missing, make a list and go to the storage to replenish.","ナプキンとウェットティッシュを補充","ברגע שעולים למשמרת - בודקים את העמדת מלצרים בפנים ובחוץ ועמדת טייקאווי ומוודאים ששום דבר לא חסר. במידה וחסר עושים רשימה ויורדים למחסנים להביא ","floor","required","","closing","[]","","[]","עמדת מלצרים מלאה ","","always","7","Refill napkins and wet wipes","692f8791a6797da1dc623f94","2025-12-03T00:42:57.588000","2026-05-13T15:58:58.023000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"
+"Nettoyer toutes les tables","true","Essuyer et désinfecter toutes les tables","Wipe down and sanitize all dining tables","全てのテーブルを清掃","נגב וחטא את כל שולחנות האוכל לפני הסגירה ","floor","none","","opening","[]","全てのダイニングテーブルを拭いて消毒する","[]","נקה את כל השולחנות","","always","2","Clean all tables","692f8791a6797da1dc623f92","2025-12-03T00:42:57.588000","2026-05-13T15:54:49.102000","692f863cbc8c69787b8bd275","matandayan1@gmail.com","false"

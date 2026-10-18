@@ -1,0 +1,102 @@
+{
+  "name": "InventoryItem",
+  "type": "object",
+  "properties": {
+    "name_he": {
+      "type": "string",
+      "description": "Item name in Hebrew"
+    },
+    "name_en": {
+      "type": "string",
+      "description": "Item name in English"
+    },
+    "barcode": {
+      "type": "string",
+      "description": "Barcode for quick scanning"
+    },
+    "work_area": {
+      "type": "string",
+      "enum": [
+        "floor",
+        "bar",
+        "host",
+        "kitchen",
+        "cleaning"
+      ],
+      "description": "Which department this item belongs to"
+    },
+    "bar_category": {
+      "type": "string",
+      "enum": [
+        "soft_drinks_beer",
+        "sake_wine",
+        "alcohol_speed",
+        "alcohol_display",
+        "coffee_tea"
+      ],
+      "description": "Bar sub-category (only relevant when work_area is bar)"
+    },
+    "kitchen_category": {
+      "type": "string",
+      "description": "Kitchen supplier/department category (only relevant when work_area is kitchen)"
+    },
+    "unit": {
+      "type": "string",
+      "description": "Unit of measurement"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "URL of the item image"
+    },
+    "min_stock": {
+      "type": "number",
+      "description": "Minimum stock level"
+    },
+    "max_stock": {
+      "type": "number",
+      "description": "Maximum stock level"
+    },
+    "current_stock": {
+      "type": "number",
+      "description": "Current stock level"
+    },
+    "box_enabled": {
+      "type": "boolean",
+      "default": false
+    },
+    "box_label": {
+      "type": "string",
+      "description": "Name of the box/case"
+    },
+    "units_per_box": {
+      "type": "number",
+      "description": "How many base units in one box"
+    },
+    "sort_order": {
+      "type": "number",
+      "default": 0
+    },
+    "is_active": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "required": [
+    "name_he",
+    "work_area"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": null,
+    "update": null,
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

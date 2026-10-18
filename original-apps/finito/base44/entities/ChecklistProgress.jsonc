@@ -1,0 +1,94 @@
+{
+  "name": "ChecklistProgress",
+  "type": "object",
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "The date of the checklist"
+    },
+    "checklist_type": {
+      "type": "string",
+      "enum": [
+        "opening",
+        "closing"
+      ],
+      "description": "Type of checklist"
+    },
+    "work_area": {
+      "type": "string",
+      "enum": [
+        "floor",
+        "bar",
+        "host",
+        "kitchen",
+        "cleaning"
+      ],
+      "description": "Work area"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "in_progress",
+        "completed"
+      ],
+      "default": "in_progress"
+    },
+    "submitted_by": {
+      "type": "string",
+      "description": "Name of the staff member who submitted"
+    },
+    "completed_tasks": {
+      "type": "array",
+      "description": "Array of completed task objects",
+      "items": {
+        "type": "object",
+        "properties": {
+          "task_id": {
+            "type": "string"
+          },
+          "task_name": {
+            "type": "string"
+          },
+          "completed": {
+            "type": "boolean"
+          },
+          "note": {
+            "type": "string"
+          },
+          "photo_url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "total_tasks": {
+      "type": "number"
+    },
+    "completed_count": {
+      "type": "number"
+    },
+    "last_updated": {
+      "type": "string"
+    },
+    "submission_time": {
+      "type": "string",
+      "description": "Final submission timestamp"
+    }
+  },
+  "required": [
+    "date",
+    "checklist_type",
+    "work_area"
+  ],
+  "rls": {
+    "create": null,
+    "read": null,
+    "update": null,
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}
